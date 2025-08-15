@@ -83,7 +83,3 @@ SELECT * FROM Books;
 ## ERD (ENTITY RELATIONSHIP DIAGRAM)
 
 ![Library Management ERD](https://github.com/CLAIRENEKESASIMIYU2000/library-management-system/blob/main/ERD.png?raw=true)
-
----
-
-Do you want me to also **add a short FEATURES section** so the README looks even more professional when people view your GitHub repo? That would make it stand out more.
